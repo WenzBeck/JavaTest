@@ -1,0 +1,23 @@
+# IntelliJ IDEA files
+  .idea/
+  *.iml
+  *.ipr
+  *.iws
+
+  # Compiled output
+  /out/
+  /target/
+  *.class
+
+  # MMaven/Gradle
+  .gradle/
+  build/
+  .project
+  .settings/
+  .classpath
+
+  # Logs
+  *.log
+
+  # macOS
+  .DS_Store
